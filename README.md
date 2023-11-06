@@ -7,6 +7,9 @@
 ## Description
 Proyecto de prueba para probar la funcionalidad de recargar automaticamente cuando cambie la versión
 
+Se creó siguiendo el tutorial de @NicoBytes de la fuente [Tutorial de Youtube](https://www.youtube.com/watch?v=P4y6QeQoKbY)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.12.
 
