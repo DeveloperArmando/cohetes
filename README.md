@@ -1,5 +1,6 @@
 # Cohetes
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5540f41-eeb1-4f42-8ddd-561c0380b055/deploy-status)](https://app.netlify.com/sites/radiant-starship-1038321/deploys)
 Proyecto de prueba para probar la funcionalidad de recargar automaticamente cuando cambie la versión
 
 
